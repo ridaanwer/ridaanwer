@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ridaanwer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, im Rida Anwer
+im a frontend Developer and IT Graduate passionarfacete about creating user-friendly web interface
+and creative desigsn.
 
-<!---
-ridaanwer/ridaanwer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Languages and Tools:
+HTML| CSS| Javascript| Figma| Canva| Git| Github|
+
+
 --->
